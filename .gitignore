@@ -44,3 +44,13 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Pastas e arquivos do flutter
+/android
+/ios
+/web
+/test
+/windows
+analysis_options.yaml
+pubspec.lock
+.metadata
